@@ -16,4 +16,8 @@ use one instead of another.
 
     A branch is an "offshoot" of a single repository.
 
+What is the benefit of having a copy of the last known state of the remote stored
+locally?
 
+    To avoid merge conflicts and ensure you're working on the latest version of
+    code.
